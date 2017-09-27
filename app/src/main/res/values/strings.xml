@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My NameCard</string>
+    <string name="Grade">情報工学科 2年</string>
+    <string name="Gakuseki">1601018</string>
+    <string name="Name">福江将大</string>
+    <string name="Phone">090-111-111</string>
+    <string name="NickName">ニックネーム</string>
+</resources>
